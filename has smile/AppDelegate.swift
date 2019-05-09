@@ -14,8 +14,25 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     var window: UIWindow?
 
 
-    func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
+    func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
+        
         // Override point for customization after application launch.
+        //ここに初期化処理を書く
+        //Userdefaultを使ってフラグを維持する
+        let UserDefault = UserDefaults.standard
+        //"firsrlunch"をキーにBool型の形を維持する
+        let dict = ["firstLanch" : true]
+        //デフォルト値登録
+        //すでに値が更新されていた場合は、更新後そのままの値になる
+        UserDefault.register(defaults: dict)
+        
+        //firstlunchにき紐づく値がtureなら値をfalseに更新して処理を行う
+        if UserDefault.bool(forKey: "firstLanch") {
+            UserDefault.set(false, forKey: "firstLanch" )
+            print("初回起動のみ表示")
+        }
+        
+        print("初回起動じゃなくても呼ばれるアプリ起動時の処理")
         return true
     }
 

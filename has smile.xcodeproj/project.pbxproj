@@ -7,13 +7,42 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		379237A3220AF36B008814C0 /* レトロなカメラアイコン2 (1).png in Resources */ = {isa = PBXBuildFile; fileRef = 379237A2220AF36B008814C0 /* レトロなカメラアイコン2 (1).png */; };
+		379237A5220AF3DD008814C0 /* イメージ画像のアイコン素材 その3.png in Resources */ = {isa = PBXBuildFile; fileRef = 379237A4220AF3DC008814C0 /* イメージ画像のアイコン素材 その3.png */; };
+		379237A9220AF6AD008814C0 /* 無料のダウンロードのアイコン素材.png in Resources */ = {isa = PBXBuildFile; fileRef = 379237A8220AF6AD008814C0 /* 無料のダウンロードのアイコン素材.png */; };
+		379237AB220AF6E8008814C0 /* レトロなカメラアイコン2 (2).png in Resources */ = {isa = PBXBuildFile; fileRef = 379237AA220AF6E8008814C0 /* レトロなカメラアイコン2 (2).png */; };
+		379237AD220AF834008814C0 /* フキダシアイコン.png in Resources */ = {isa = PBXBuildFile; fileRef = 379237AC220AF834008814C0 /* フキダシアイコン.png */; };
+		379237B1221938A4008814C0 /* 共有アイコン1.png in Resources */ = {isa = PBXBuildFile; fileRef = 379237B0221938A4008814C0 /* 共有アイコン1.png */; };
+		379238AD22391759008814C0 /* iTunesArtwork@1x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3792389822391759008814C0 /* iTunesArtwork@1x.png */; };
+		379238AE22391759008814C0 /* Icon-App-76x76@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3792389A22391759008814C0 /* Icon-App-76x76@2x.png */; };
+		379238AF22391759008814C0 /* Icon-App-29x29@1x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3792389B22391759008814C0 /* Icon-App-29x29@1x.png */; };
+		379238B022391759008814C0 /* Icon-App-40x40@1x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3792389C22391759008814C0 /* Icon-App-40x40@1x.png */; };
+		379238B122391759008814C0 /* Icon-App-20x20@1x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3792389D22391759008814C0 /* Icon-App-20x20@1x.png */; };
+		379238B222391759008814C0 /* Icon-App-83.5x83.5@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3792389E22391759008814C0 /* Icon-App-83.5x83.5@2x.png */; };
+		379238B322391759008814C0 /* Icon-App-20x20@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3792389F22391759008814C0 /* Icon-App-20x20@3x.png */; };
+		379238B422391759008814C0 /* ItunesArtwork@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 379238A022391759008814C0 /* ItunesArtwork@2x.png */; };
+		379238B522391759008814C0 /* Contents.json in Resources */ = {isa = PBXBuildFile; fileRef = 379238A122391759008814C0 /* Contents.json */; };
+		379238B622391759008814C0 /* Icon-App-20x20@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 379238A222391759008814C0 /* Icon-App-20x20@2x.png */; };
+		379238B722391759008814C0 /* Icon-App-29x29@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 379238A322391759008814C0 /* Icon-App-29x29@3x.png */; };
+		379238B822391759008814C0 /* Icon-App-40x40@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 379238A422391759008814C0 /* Icon-App-40x40@2x.png */; };
+		379238B922391759008814C0 /* Icon-App-60x60@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 379238A522391759008814C0 /* Icon-App-60x60@3x.png */; };
+		379238BA22391759008814C0 /* Icon-App-60x60@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 379238A622391759008814C0 /* Icon-App-60x60@2x.png */; };
+		379238BB22391759008814C0 /* Icon-App-76x76@1x.png in Resources */ = {isa = PBXBuildFile; fileRef = 379238A722391759008814C0 /* Icon-App-76x76@1x.png */; };
+		379238BC22391759008814C0 /* Icon-App-40x40@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 379238A822391759008814C0 /* Icon-App-40x40@3x.png */; };
+		379238BD22391759008814C0 /* Icon-App-29x29@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 379238A922391759008814C0 /* Icon-App-29x29@2x.png */; };
+		379238BE22391759008814C0 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 379238AA22391759008814C0 /* README.md */; };
+		379238BF22391759008814C0 /* iTunesArtwork@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 379238AB22391759008814C0 /* iTunesArtwork@2x.png */; };
+		379238C022391759008814C0 /* iTunesArtwork@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 379238AC22391759008814C0 /* iTunesArtwork@3x.png */; };
+		379238C222391897008814C0 /* アイコン1024完成形.png in Resources */ = {isa = PBXBuildFile; fileRef = 379238C122391897008814C0 /* アイコン1024完成形.png */; };
+		379238C422674B46008814C0 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 379238C322674B45008814C0 /* GoogleService-Info.plist */; };
 		37FF78C72201A7B900031105 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37FF78C62201A7B900031105 /* AppDelegate.swift */; };
-		37FF78C92201A7B900031105 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37FF78C82201A7B900031105 /* ViewController.swift */; };
+		37FF78C92201A7B900031105 /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37FF78C82201A7B900031105 /* CameraViewController.swift */; };
 		37FF78CC2201A7B900031105 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 37FF78CA2201A7B900031105 /* Main.storyboard */; };
 		37FF78CE2201A7C000031105 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 37FF78CD2201A7C000031105 /* Assets.xcassets */; };
 		37FF78D12201A7C000031105 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 37FF78CF2201A7C000031105 /* LaunchScreen.storyboard */; };
 		37FF78DC2201A7C000031105 /* has_smileTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37FF78DB2201A7C000031105 /* has_smileTests.swift */; };
 		37FF78E72201A7C000031105 /* has_smileUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37FF78E62201A7C000031105 /* has_smileUITests.swift */; };
+		37FF78F52201ABE000031105 /* camera.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37FF78F42201ABE000031105 /* camera.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,9 +63,37 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		379237A2220AF36B008814C0 /* レトロなカメラアイコン2 (1).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "レトロなカメラアイコン2 (1).png"; sourceTree = "<group>"; };
+		379237A4220AF3DC008814C0 /* イメージ画像のアイコン素材 その3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "イメージ画像のアイコン素材 その3.png"; sourceTree = "<group>"; };
+		379237A8220AF6AD008814C0 /* 無料のダウンロードのアイコン素材.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "無料のダウンロードのアイコン素材.png"; path = "../../../Downloads/無料のダウンロードのアイコン素材.png"; sourceTree = "<group>"; };
+		379237AA220AF6E8008814C0 /* レトロなカメラアイコン2 (2).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "レトロなカメラアイコン2 (2).png"; sourceTree = "<group>"; };
+		379237AC220AF834008814C0 /* フキダシアイコン.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "フキダシアイコン.png"; sourceTree = "<group>"; };
+		379237B0221938A4008814C0 /* 共有アイコン1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "共有アイコン1.png"; sourceTree = "<group>"; };
+		3792389822391759008814C0 /* iTunesArtwork@1x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "iTunesArtwork@1x.png"; sourceTree = "<group>"; };
+		3792389A22391759008814C0 /* Icon-App-76x76@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-App-76x76@2x.png"; sourceTree = "<group>"; };
+		3792389B22391759008814C0 /* Icon-App-29x29@1x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-App-29x29@1x.png"; sourceTree = "<group>"; };
+		3792389C22391759008814C0 /* Icon-App-40x40@1x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-App-40x40@1x.png"; sourceTree = "<group>"; };
+		3792389D22391759008814C0 /* Icon-App-20x20@1x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-App-20x20@1x.png"; sourceTree = "<group>"; };
+		3792389E22391759008814C0 /* Icon-App-83.5x83.5@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-App-83.5x83.5@2x.png"; sourceTree = "<group>"; };
+		3792389F22391759008814C0 /* Icon-App-20x20@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-App-20x20@3x.png"; sourceTree = "<group>"; };
+		379238A022391759008814C0 /* ItunesArtwork@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ItunesArtwork@2x.png"; sourceTree = "<group>"; };
+		379238A122391759008814C0 /* Contents.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Contents.json; sourceTree = "<group>"; };
+		379238A222391759008814C0 /* Icon-App-20x20@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-App-20x20@2x.png"; sourceTree = "<group>"; };
+		379238A322391759008814C0 /* Icon-App-29x29@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-App-29x29@3x.png"; sourceTree = "<group>"; };
+		379238A422391759008814C0 /* Icon-App-40x40@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-App-40x40@2x.png"; sourceTree = "<group>"; };
+		379238A522391759008814C0 /* Icon-App-60x60@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-App-60x60@3x.png"; sourceTree = "<group>"; };
+		379238A622391759008814C0 /* Icon-App-60x60@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-App-60x60@2x.png"; sourceTree = "<group>"; };
+		379238A722391759008814C0 /* Icon-App-76x76@1x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-App-76x76@1x.png"; sourceTree = "<group>"; };
+		379238A822391759008814C0 /* Icon-App-40x40@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-App-40x40@3x.png"; sourceTree = "<group>"; };
+		379238A922391759008814C0 /* Icon-App-29x29@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-App-29x29@2x.png"; sourceTree = "<group>"; };
+		379238AA22391759008814C0 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		379238AB22391759008814C0 /* iTunesArtwork@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "iTunesArtwork@2x.png"; sourceTree = "<group>"; };
+		379238AC22391759008814C0 /* iTunesArtwork@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "iTunesArtwork@3x.png"; sourceTree = "<group>"; };
+		379238C122391897008814C0 /* アイコン1024完成形.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "アイコン1024完成形.png"; sourceTree = "<group>"; };
+		379238C322674B45008814C0 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		37FF78C32201A7B900031105 /* has smile.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "has smile.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		37FF78C62201A7B900031105 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		37FF78C82201A7B900031105 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		37FF78C82201A7B900031105 /* CameraViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraViewController.swift; sourceTree = "<group>"; };
 		37FF78CB2201A7B900031105 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		37FF78CD2201A7C000031105 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		37FF78D02201A7C000031105 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -47,6 +104,7 @@
 		37FF78E22201A7C000031105 /* has smileUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "has smileUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		37FF78E62201A7C000031105 /* has_smileUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = has_smileUITests.swift; sourceTree = "<group>"; };
 		37FF78E82201A7C000031105 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		37FF78F42201ABE000031105 /* camera.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = camera.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +132,42 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		3792389722391759008814C0 /* ios */ = {
+			isa = PBXGroup;
+			children = (
+				3792389822391759008814C0 /* iTunesArtwork@1x.png */,
+				3792389922391759008814C0 /* AppIcon.appiconset */,
+				379238AA22391759008814C0 /* README.md */,
+				379238AB22391759008814C0 /* iTunesArtwork@2x.png */,
+				379238AC22391759008814C0 /* iTunesArtwork@3x.png */,
+			);
+			name = ios;
+			path = "../../../Downloads/アイコン1024完成形/ios";
+			sourceTree = "<group>";
+		};
+		3792389922391759008814C0 /* AppIcon.appiconset */ = {
+			isa = PBXGroup;
+			children = (
+				3792389A22391759008814C0 /* Icon-App-76x76@2x.png */,
+				3792389B22391759008814C0 /* Icon-App-29x29@1x.png */,
+				3792389C22391759008814C0 /* Icon-App-40x40@1x.png */,
+				3792389D22391759008814C0 /* Icon-App-20x20@1x.png */,
+				3792389E22391759008814C0 /* Icon-App-83.5x83.5@2x.png */,
+				3792389F22391759008814C0 /* Icon-App-20x20@3x.png */,
+				379238A022391759008814C0 /* ItunesArtwork@2x.png */,
+				379238A122391759008814C0 /* Contents.json */,
+				379238A222391759008814C0 /* Icon-App-20x20@2x.png */,
+				379238A322391759008814C0 /* Icon-App-29x29@3x.png */,
+				379238A422391759008814C0 /* Icon-App-40x40@2x.png */,
+				379238A522391759008814C0 /* Icon-App-60x60@3x.png */,
+				379238A622391759008814C0 /* Icon-App-60x60@2x.png */,
+				379238A722391759008814C0 /* Icon-App-76x76@1x.png */,
+				379238A822391759008814C0 /* Icon-App-40x40@3x.png */,
+				379238A922391759008814C0 /* Icon-App-29x29@2x.png */,
+			);
+			path = AppIcon.appiconset;
+			sourceTree = "<group>";
+		};
 		37FF78BA2201A7B800031105 = {
 			isa = PBXGroup;
 			children = (
@@ -98,11 +192,21 @@
 			isa = PBXGroup;
 			children = (
 				37FF78C62201A7B900031105 /* AppDelegate.swift */,
-				37FF78C82201A7B900031105 /* ViewController.swift */,
+				37FF78C82201A7B900031105 /* CameraViewController.swift */,
 				37FF78CA2201A7B900031105 /* Main.storyboard */,
 				37FF78CD2201A7C000031105 /* Assets.xcassets */,
 				37FF78CF2201A7C000031105 /* LaunchScreen.storyboard */,
+				37FF78F42201ABE000031105 /* camera.swift */,
 				37FF78D22201A7C000031105 /* Info.plist */,
+				379237A2220AF36B008814C0 /* レトロなカメラアイコン2 (1).png */,
+				379237A4220AF3DC008814C0 /* イメージ画像のアイコン素材 その3.png */,
+				379237AA220AF6E8008814C0 /* レトロなカメラアイコン2 (2).png */,
+				379237A8220AF6AD008814C0 /* 無料のダウンロードのアイコン素材.png */,
+				379237AC220AF834008814C0 /* フキダシアイコン.png */,
+				379237B0221938A4008814C0 /* 共有アイコン1.png */,
+				379238C122391897008814C0 /* アイコン1024完成形.png */,
+				379238C322674B45008814C0 /* GoogleService-Info.plist */,
+				3792389722391759008814C0 /* ios */,
 			);
 			path = "has smile";
 			sourceTree = "<group>";
@@ -193,13 +297,16 @@
 				TargetAttributes = {
 					37FF78C22201A7B900031105 = {
 						CreatedOnToolsVersion = 9.3;
+						LastSwiftMigration = 1010;
 					};
 					37FF78D62201A7C000031105 = {
 						CreatedOnToolsVersion = 9.3;
+						LastSwiftMigration = 1010;
 						TestTargetID = 37FF78C22201A7B900031105;
 					};
 					37FF78E12201A7C000031105 = {
 						CreatedOnToolsVersion = 9.3;
+						LastSwiftMigration = 1010;
 						TestTargetID = 37FF78C22201A7B900031105;
 					};
 				};
@@ -231,7 +338,35 @@
 			files = (
 				37FF78D12201A7C000031105 /* LaunchScreen.storyboard in Resources */,
 				37FF78CE2201A7C000031105 /* Assets.xcassets in Resources */,
+				379237A5220AF3DD008814C0 /* イメージ画像のアイコン素材 その3.png in Resources */,
+				379238B822391759008814C0 /* Icon-App-40x40@2x.png in Resources */,
+				379238B322391759008814C0 /* Icon-App-20x20@3x.png in Resources */,
+				379238C022391759008814C0 /* iTunesArtwork@3x.png in Resources */,
+				379238B922391759008814C0 /* Icon-App-60x60@3x.png in Resources */,
+				379238BA22391759008814C0 /* Icon-App-60x60@2x.png in Resources */,
 				37FF78CC2201A7B900031105 /* Main.storyboard in Resources */,
+				379238C222391897008814C0 /* アイコン1024完成形.png in Resources */,
+				379238BD22391759008814C0 /* Icon-App-29x29@2x.png in Resources */,
+				379238B722391759008814C0 /* Icon-App-29x29@3x.png in Resources */,
+				379238B622391759008814C0 /* Icon-App-20x20@2x.png in Resources */,
+				379238BC22391759008814C0 /* Icon-App-40x40@3x.png in Resources */,
+				379238B222391759008814C0 /* Icon-App-83.5x83.5@2x.png in Resources */,
+				379238C422674B46008814C0 /* GoogleService-Info.plist in Resources */,
+				379237AB220AF6E8008814C0 /* レトロなカメラアイコン2 (2).png in Resources */,
+				379238AE22391759008814C0 /* Icon-App-76x76@2x.png in Resources */,
+				379238BE22391759008814C0 /* README.md in Resources */,
+				379237B1221938A4008814C0 /* 共有アイコン1.png in Resources */,
+				379238B122391759008814C0 /* Icon-App-20x20@1x.png in Resources */,
+				379238B022391759008814C0 /* Icon-App-40x40@1x.png in Resources */,
+				379238B522391759008814C0 /* Contents.json in Resources */,
+				379238AD22391759008814C0 /* iTunesArtwork@1x.png in Resources */,
+				379237AD220AF834008814C0 /* フキダシアイコン.png in Resources */,
+				379237A9220AF6AD008814C0 /* 無料のダウンロードのアイコン素材.png in Resources */,
+				379238BF22391759008814C0 /* iTunesArtwork@2x.png in Resources */,
+				379238B422391759008814C0 /* ItunesArtwork@2x.png in Resources */,
+				379237A3220AF36B008814C0 /* レトロなカメラアイコン2 (1).png in Resources */,
+				379238AF22391759008814C0 /* Icon-App-29x29@1x.png in Resources */,
+				379238BB22391759008814C0 /* Icon-App-76x76@1x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -256,7 +391,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				37FF78C92201A7B900031105 /* ViewController.swift in Sources */,
+				37FF78F52201ABE000031105 /* camera.swift in Sources */,
+				37FF78C92201A7B900031105 /* CameraViewController.swift in Sources */,
 				37FF78C72201A7B900031105 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -431,15 +567,16 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = HM2L88C6PL;
 				INFOPLIST_FILE = "has smile/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.litech.has-smile";
+				PRODUCT_BUNDLE_IDENTIFIER = com.litech.Smilejudge;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				SWIFT_VERSION = 4.2;
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -448,15 +585,16 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = HM2L88C6PL;
 				INFOPLIST_FILE = "has smile/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.litech.has-smile";
+				PRODUCT_BUNDLE_IDENTIFIER = com.litech.Smilejudge;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				SWIFT_VERSION = 4.2;
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
@@ -474,7 +612,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "com.litech.has-smileTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/has smile.app/has smile";
 			};
@@ -494,7 +632,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "com.litech.has-smileTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/has smile.app/has smile";
 			};
@@ -513,7 +651,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "com.litech.has-smileUITests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_TARGET_NAME = "has smile";
 			};
@@ -532,7 +670,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "com.litech.has-smileUITests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_TARGET_NAME = "has smile";
 			};

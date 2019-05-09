@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>171446902352-4s8tkcjp7tbgn5emr89u2j9i5u6of2vi.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.171446902352-4s8tkcjp7tbgn5emr89u2j9i5u6of2vi</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCSeMRe9j7Uyx6pBN9i5oQrj76atJQMHwo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>171446902352</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.litech.Smilejudge</string>
+	<key>PROJECT_ID</key>
+	<string>testproject-dbb07</string>
+	<key>STORAGE_BUCKET</key>
+	<string>testproject-dbb07.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:171446902352:ios:99b26536150cddff</string>
+	<key>DATABASE_URL</key>
+	<string>https://testproject-dbb07.firebaseio.com</string>
+</dict>
+</plist>
